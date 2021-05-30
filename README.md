@@ -8,7 +8,7 @@
 
 **Foram filtrados os dados referente as internações entre nov/2015 - nov/2020, seguindo os critérios:**
 
-* Foram retirados os últimos seis meses, pois são sujeitos a atualização;
+* Foram retirados os últimos seis meses, pois estão sujeitos a atualização;
 * Foram considerados a partir de novembro de 2015, pois estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
 
 *Os arquivos de dados estão disponíveis na pasta Dados do projeto.*
